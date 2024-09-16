@@ -60,3 +60,19 @@
             color:SkyBlue  
         }
     }
+    div.header:hover {
+        animation: transition 2s forwards;
+    }
+    div.main:hover {
+        animation: transition 2s forwards;
+    }
+    div.footer:hover {
+        animation: transition 2s forwards;
+    }
+    .header,.footer,.main{
+        align:center;
+    }
+    header{
+        color:red
+        
+    }
