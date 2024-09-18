@@ -1,8 +1,6 @@
 
     
-    h2 {
-        color:blue;
-    }
+    
     #playstation {
         color:red;
     }
@@ -10,69 +8,15 @@
         font-size:large
     }
 
-    .Ps1{
-        from{
-            
-            color:red   
-        }
-        to{
-            
-            color:SkyBlue  
-        }
-    }
-    .Ps2{
-        from{
-            
-            color:red
-        }
-        to{
-            
-            color:SkyBlue
-        }
-    }
-    .Ps3{
-        from{
-            
-            color:red 
-        }
-        to{
-            
-            color:SkyBlue  
-        }
-    }
-    .Ps4{
-        from{
-            
-            color:red 
-        }
-        to{
-            
-            color:SkyBlue  
-        }
-    }
-    .Ps5{
-        from{
-            
-            color:red 
-        }
-        to{
-            
-            color:SkyBlue  
-        }
-    }
-    div.header:hover {
-        animation: transition 2s forwards;
-    }
-    div.main:hover {
-        animation: transition 2s forwards;
-    }
-    div.footer:hover {
-        animation: transition 2s forwards;
-    }
-    .header,.footer,.main{
-        align:center;
-    }
-    header{
+  
+
+    .header{
         color:red
+    }
+    .header:hover{
+        
+            color:SkyBlue
+          
         
     }
+   
